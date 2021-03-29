@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d3c06214f57b4e939fec3c342d9bb9f, type: 3}
+  m_Name: Scenario3-4
+  m_EditorClassIdentifier: 
+  scenarioName: An enemy?
+  description: Reading books is never your thing. You're soon attracted by the food
+    truck with snacks that you've never seen before. When you're about to decide
+    which snacks to buy, you're interrupted by a rude laugh. A boy is looking at
+    you arrogantly. "Haven't you seen so many good stuff, mud blood?"
+  question: Confront him or not?
+  scenarioYes: {fileID: 11400000, guid: b207c7d8ca88f486f9ffd57f8d3ad11f, type: 2}
+  scenarioNo: {fileID: 11400000, guid: 11b7ce7c50ccc4b8b98dbc405504f5f1, type: 2}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d3c06214f57b4e939fec3c342d9bb9f, type: 3}
+  m_Name: Scenario3-1
+  m_EditorClassIdentifier: 
+  scenarioName: Making friends?
+  description: 'You''re sort of a book worm and you''ve read through the book list
+    for the first-years. However, it''s always a good choice to have a nice read
+    on the train. When you are about to open "Hogwarts: A history", there comes an
+    arrogant boy who complaints that other cabins are full of mud blood. "Can I sit
+    next to you? It seems the only clean place in these cabins." He says. '
+  question: Do you want to make friend with him?
+  scenarioYes: {fileID: 11400000, guid: c157a2f69368b452f9dcd553c43b40c6, type: 2}
+  scenarioNo: {fileID: 11400000, guid: a8279570009e64aaa924d6a73051e205, type: 2}

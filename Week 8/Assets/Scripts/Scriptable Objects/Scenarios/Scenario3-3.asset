@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d3c06214f57b4e939fec3c342d9bb9f, type: 3}
+  m_Name: Scenario3-3
+  m_EditorClassIdentifier: 
+  scenarioName: An enemy?
+  description: 'You''re sort of a book worm and you''ve read through the book list
+    for the first-years. However, it''s always a good choice to have a nice read
+    on the train. When you are about to open "Hogwarts: A history", there comes an
+    arrogant boy who looks at you with an unpleasant look. "Eww, mud blood. Hogwarts
+    needs to be more careful when giving admissions." He gruffs.'
+  question: Confront him or not?
+  scenarioYes: {fileID: 11400000, guid: b207c7d8ca88f486f9ffd57f8d3ad11f, type: 2}
+  scenarioNo: {fileID: 11400000, guid: 26acbd94febf7461092fd2b63f092834, type: 2}
